@@ -1,12 +1,13 @@
 title: Nat Neale
 author: NN
 email: nataliehneale@gmailcom
-description: > # this means to ignore newlines until "baseurl:"
-  hello internet!
+description: hello internet!
 
 # social links
 twitter_username: nathuntneale
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  nneale
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+date: 05/30/20
